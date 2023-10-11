@@ -14,11 +14,11 @@
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns me as `/'he,' 'his,' or 'him.'/`
-- 💻 Full-stack [C#/.NET & Java](https://microsoft.com) Back-end Developer
+- 💻 Full-stack [C#/.NET](https://microsoft.com) Back-end Developer
 - 🌱 Learning **DevOps Engineering**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
-- 🏛 Founder & CEO at [Aj-Nexus](https://ajnexus.com)
+- 🏛 CTO at [Aj-Nexus](https://ajnexus.com)
 - 🎓 CS Graduate of [Niger-Delta University Bayelsa state Nigeria]
 - 📱 +2348108460143
 
@@ -29,7 +29,7 @@
 - [Alpharanker](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
 - [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News``
 
-[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
+<!--[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)-->
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
