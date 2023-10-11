@@ -14,7 +14,7 @@
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns me as `/'he,' 'his,' or 'him.'/`
-- 💻 Full-stack [C#/.NET](https://microsoft.com) Back-end Developer
+- 💻 Full-stack [C#/.NET](https://microsoft.com) Software Engineer
 - 🌱 Learning **DevOps Engineering**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
