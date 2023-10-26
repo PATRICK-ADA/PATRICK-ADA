@@ -22,15 +22,6 @@
 - 🎓 CS Graduate of [Niger-Delta University Bayelsa state Nigeria]
 - 📱 +2348108460143
 
-### 💡 Community Projects
-
-- [Assignmento](https://assignmento.org) `Freelancing Platform`
-- [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
-- [Alpharanker](https://play.google.com/store/apps/details?id=dev.usama.alpharanker) `Website and Social Media Profile SEO Booster`
-- [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News``
-
-<!--[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)-->
-
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
 <a href="https://github.com/usamasarwar/">
@@ -65,47 +56,6 @@
 > Diseases never come with prior intimation. In real-world scenarios reporting such diseases is a real challenge. This challenge is completed by "Al-Shaafi"; an idea to automate the process of disease prediction and effective treatment. Through this app, you would be able to get one more way to properly medical checkups without visiting hospitals. We have developed an expert system named “Al-Shaafi” that provides medical facilities to the patients in the minimum possible time. This system may diagnose the patient. This diagnosis will inform the patients about their disease they are suffering from. This expert system also facilitates the patients in the treatment for the respective illness they are suffering with. In this system, a team of dedicated and expert doctors would be available if a patient needs medical consultancy. Emergency services like Ambulance and Rescue are available 24/7. This expert system also facilitates women in obstetrical and gynecological treatment. It has been observed that when the patient visits the doctor for the next time, the medical history of the patient is usually overlooked. Al-Shaafi provides the facility to record the patient's histories. This expert system virtually connects a patient to the doctor for medical consultancy.
 >
 > `Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter` <br>   [![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk) [![Website](https://img.shields.io/badge/Web-App-211F1F?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
-
-<br><h2 align="center"> Recent Projects ⚡</h2>
-
-> **Hotspot+**<br>Mobile App containing live streams from 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://www.usama.dev/hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **Assignmento**<br>Freelancing Platform empowering over 1M Freelancers and Businesses<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.assignmento) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
-
-> **Comsian Network**<br>COMSATS Alumni Network for the students of COMSATS University Islamabad<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](<[https://play.google.com/store/apps/details?id=dev.usama.assignmento](https://comsian.net)>) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
-
-<br><h2 align="center"> Open-Source Projects ✨</h2>
-
-> **FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **Weather Forecast**<br>Website for live weather broadcasting and weather prediction<br>[![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/weather-forecast/) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/weather-forecast) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://flutter.dev)
-
-> **Compiler Contruction Building Blocks Software**<br>Java Software that contains building blocks for the construction of a compiler<br>[![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks/releases) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks) [![Made with Java](https://img.shields.io/badge/Made_with-JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
-
-> **MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
-
-<br><h2 align="center"> Global Contributions 💻</h2>
-
-<br><h2 align="center"> Tools & Technology 🛠</h2>
-
-<div align="center">
-<!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=flat-square&logo=Adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=flat-square&logo=Adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-<br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
-<br>
 
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
