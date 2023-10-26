@@ -14,7 +14,7 @@
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns me as `/'he,' 'his,' or 'him.'/`
-- 💻 Full-stack [C#/.NET](https://microsoft.com) Software Engineer
+- 💻 Full-stack [C#/.NET and DevOps](https://microsoft.com) Engineer
 - 🌱 Learning **DevOps Engineering**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
@@ -59,15 +59,6 @@
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
-<br><h2 align="center"> Community Projects 🚀</h2>
-
-### Assignmento | Freelancing Platform
-> <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
-> Assignmento.org is one of the world's largest freelancing and crowdsourcing community and marketplace by the number of users and freelancers. Assignmento connects over a Million employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting, legal services and many more. Freelancers are building the future on Assignmento every day, exploring their stories, celebrating their accomplishments, and finding inspiration for their own work. Assignmento.org is on the mission to build a platform that will create equal opportunities for everyone irrespective of caste, creed and nation. Our mission to create economic opportunities so people have better lives has taken us so much further. As a result, we’ve become the world’s work marketplace where everyday businesses of all sizes and independent talent from around the globe meet here to accomplish incredible things. Assignmento is focusing on building a productive ecosystem for the freelancing community. <a  href="https://play.google.com/store/apps/details?id=dev.usama.assignmento"><img align="right" src="images/googlePlay.gif" alt="Assignmento App" height="50px" /></a>As Freelancers - we strive to live out and uphold the following values individually and as a collective self-discovery, growth, commitment, respect, empowerment, legacy and inclusivity.
->
-><br>[![Website](https://img.shields.io/badge/Visit_Website-Assignmento-211F1F?logo=google-chrome&logoColor=ffffff)](https://assignmento.org)
-
-<br>
 
 ### Corona Virus (COVID19) Detection App
 > <img align="right" alt="Programming" src="images/coding.png" height="200" />
