@@ -95,18 +95,6 @@
 
 <br><h2 align="center"> Global Contributions 💻</h2>
 
-<div align="center">
-
-[![CMD Contributor](https://img.shields.io/badge/CMD-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | [![Telegram Contributor](https://img.shields.io/badge/Telegram-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter/graphs/contributors) | [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) |
-|:---:|:---:|:---:|
-|Flutter Command Line Tool| Telegram Messaging for Flutter |Flutter's State Management Package|
-
-[![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) | [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors) |
-|:---:|:---:|
-|Flutter's Video Calling Package|Flutter's CSV Utility Package|
-
-</div>
-
 <br><h2 align="center"> Tools & Technology 🛠</h2>
 
 <div align="center">
