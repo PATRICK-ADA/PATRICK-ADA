@@ -72,5 +72,5 @@
 
 <p align="center">Open Source Contributor from <b>Lagos, Nigeria</p>
 <div align="center"><br>
-<p><a href="[https://www.buymeacoffee.com/](https://www.linkedin.com/in/patrick-ada-12b16021a/)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Lets Connect ☕" /></a></p>
+<p><a href="[[https://www.buymeacoffee.com](https://www.linkedin.com/in/patrick-ada-12b16021a/)/](https://www.linkedin.com/in/patrick-ada-12b16021a/)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Lets Connect ☕" /></a></p>
 </div>
