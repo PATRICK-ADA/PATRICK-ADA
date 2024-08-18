@@ -13,7 +13,7 @@
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns me as `/'he,' 'his,' or 'him.'/`
-- 💻 Full-stack [C#/.NET, JAVA, NODE.js](https://microsoft.com)Backend Engineer
+- 💻 Full-stack [C#/.NET, JAVA, NODE.js](https://microsoft.com) Backend Engineer
 - 🌱 Learning **DevOps Engineering**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
@@ -43,7 +43,7 @@
 </div><br>
 <div align="center">  
 <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSarwar"> <br><br> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15" />
+
 </div>
 <br>
 
