@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
 <a href="donpat646@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
-<a href="https://wa.me/923100007773?text=%23Github">
+<a href="https://wa.me/2348108460143?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
 <a href="https://www.buymeacoffee.com/PATRICK-ADA">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
