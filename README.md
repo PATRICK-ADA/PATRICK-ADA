@@ -23,14 +23,14 @@
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
-<a href="https://github.com/usamasarwar/">
+<a href="https://github.com/PATRICK-ADA/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
-<a href="mailto:UsamaSarwarOfficial@gmail.com">
+<a href="donpat646@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://www.buymeacoffee.com/UsamaSarwar">
+<a href="https://www.buymeacoffee.com/PATRICK-ADA">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
@@ -39,10 +39,10 @@
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PATRICK-ADA&theme=dark&hide_title=true&include_all_commits=true"/>
 </div><br>
 <div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSarwar"> <br><br> 
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=PATRICK-ADA"> <br><br> 
 
 </div>
 <br>
